@@ -1,4 +1,4 @@
-package com.vm.training.java.practice;
+package com.vm.training.java.CollectionsAssignments;
 
 import java.util.Collections;
 import java.util.Iterator;

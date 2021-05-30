@@ -1,4 +1,4 @@
-package com.vm.training.java.practice;
+package com.vm.training.java.CollectionsAssignments;
 
 public class Car {
 protected String make;

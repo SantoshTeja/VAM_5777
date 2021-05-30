@@ -1,4 +1,4 @@
-package com.vm.training.java.practice;
+package com.vm.training.java.CollectionsAssignments;
 import java.util.*;
 public class TestPatient {
 	public static void main(String[] args) {
