@@ -8,11 +8,11 @@ public class FileReaderDemo {
 public static void main(String[] args) throws IOException {
 	File f=new File("Santosh.txt");
 	FileReader fr=new FileReader(f);
-	System.out.println(fr.read());
-	int readchar=fr.read();
+	System.out.println(fr.read());// prints only one character
+	int readchar=fr.read(); 
 	while(readchar!=-1)
 	{
-		System.out.println((char)(readchar));
+		System.out.println((char)(readchar));// returns as a integer so convert into char
 		readchar=fr.read();
 		
 	}
